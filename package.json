@@ -26,6 +26,8 @@
     "sass": "^1.32.8"
   },
   "dependencies": {
-    "caniuse-lite": "^1.0.30001282"
+    "caniuse-lite": "^1.0.30001282",
+    "lodash.debounce": "^4.0.8",
+    "notiflix": "^3.2.2"
   }
 }
